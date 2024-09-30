@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32630.194
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudUbicaciones_EESA", "CrudUbicaciones_EESA.csproj", "{EA782404-2B8E-437C-A31F-F8F770353E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{4A69EF84-8D5F-4064-9B36-740D682F9D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALL", "..\DALL\DALL.csproj", "{D9A0056D-F23B-4046-A330-197DFF6E09D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{EA782404-2B8E-437C-A31F-F8F770353E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA782404-2B8E-437C-A31F-F8F770353E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA782404-2B8E-437C-A31F-F8F770353E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A69EF84-8D5F-4064-9B36-740D682F9D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A69EF84-8D5F-4064-9B36-740D682F9D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A69EF84-8D5F-4064-9B36-740D682F9D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A69EF84-8D5F-4064-9B36-740D682F9D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A0056D-F23B-4046-A330-197DFF6E09D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A0056D-F23B-4046-A330-197DFF6E09D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A0056D-F23B-4046-A330-197DFF6E09D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A0056D-F23B-4046-A330-197DFF6E09D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\BLL\bin\Debug\BLL.dll
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\BLL\bin\Debug\BLL.pdb
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\BLL\obj\Debug\BLL.dll
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\BLL\obj\Debug\BLL.pdb

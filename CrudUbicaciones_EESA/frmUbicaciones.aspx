@@ -41,10 +41,16 @@
                 <div class="col-md-8">
                     <br />
                     <h1>Ubicaciones</h1>
+                    <asp:GridView ID="gvUbicaciones" runat="server" CssClass="table table-responsive table-bordered">
+                        <Columns>
+                            <asp:ButtonField CommandName="btn btnSeleccionar" Text="Seleccionar">
+                            <ControlStyle CssClass="btn btn-info" />
+                            </asp:ButtonField>
+                        </Columns>
+                    </asp:GridView>
                 </div>
             </div>
         </div>
-    </form>
     <script>
         $('#ModalMapPreview').locationpicker({
             radius: 0,
@@ -60,6 +66,8 @@
 	    enableAutocomplete: true
         });
     </script>
-</body>
+        
+    </form>
+    </body>
 </html>
 <!-- AIzaSyDlv2PNwLztXH4VUYD9J9jW5vuv-T6YzRs --!>

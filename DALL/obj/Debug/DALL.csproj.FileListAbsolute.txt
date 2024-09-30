@@ -1,0 +1,9 @@
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\DALL\obj\Debug\DALL.csproj.AssemblyReference.cache
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\DALL\obj\Debug\DALL.csproj.CoreCompileInputs.cache
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\DALL\bin\Debug\DALL.dll
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\DALL\bin\Debug\DALL.pdb
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\DALL\bin\Debug\BLL.dll
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\DALL\bin\Debug\BLL.pdb
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\DALL\obj\Debug\DALL.csproj.CopyComplete
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\DALL\obj\Debug\DALL.dll
+C:\Users\cisco01\Source\Repos\WebApplicationAPIMap_EESA_24\DALL\obj\Debug\DALL.pdb
