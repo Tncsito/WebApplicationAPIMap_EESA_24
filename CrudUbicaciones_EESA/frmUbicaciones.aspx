@@ -32,16 +32,16 @@
                         <asp:TextBox ID="txtLong" Text="-109.93136356074504" CssClass="form-control" runat="server" />
                     </div>
                     <div class="form-group">
-                        <asp:Button ID="btnAgregar" CssClass="btn btn-success" runat="server" Text="Agregar" UseSubmitBehavior="false" />
+                        <asp:Button ID="btnAgregar" CssClass="btn btn-success" runat="server" Text="Agregar" UseSubmitBehavior="false" OnClick="AgregarRegistro" />
                         <asp:Button ID="btnModificar" CssClass="btn btn-warning" runat="server" Text="Modificar" UseSubmitBehavior="false" Enabled="false"/>
-                        <asp:Button ID="btnEliminar" CssClass="btn btn-danger" runat="server" Text="Eliminar" UseSubmitBehavior="false" Enabled="false"/>
+                        <asp:Button ID="btnEliminar" CssClass="btn btn-danger" runat="server" Text="Eliminar" UseSubmitBehavior="false" Enabled="false" OnClick="EliminarRegistro"/>
                         <asp:Button ID="btnLimpiar" CssClass="btn btn-default" runat="server" Text="Limpiar" UseSubmitBehavior="false" />
                     </div>
                 </div>
                 <div class="col-md-8">
                     <br />
                     <h1>Ubicaciones</h1>
-                    <asp:GridView ID="gvUbicaciones" runat="server" CssClass="table table-responsive table-bordered">
+                    <asp:GridView ID="gvUbicaciones" runat="server" CssClass="table table-responsive table-bordered" OnSelectedIndexChanged="gvUbicaciones_SelectedIndexChanged">
                         <Columns>
                             <asp:ButtonField CommandName="btn btnSeleccionar" Text="Seleccionar">
                             <ControlStyle CssClass="btn btn-info" />
